@@ -1,3 +1,3 @@
 # git-practice2
 
-테스트 입니다.
+git 연습하는 곳
